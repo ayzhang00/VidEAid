@@ -1,0 +1,10 @@
+.heading{
+  height: 10vh;
+  width: 100vw;
+  background-color: pink;
+  overflow: hidden;
+}
+.header-text{
+  margin-left: 5vw;
+  font-size: 30;
+}
